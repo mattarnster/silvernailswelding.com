@@ -1,0 +1,19 @@
+{
+    "name": "Silvernail's Welding Inc.",
+    "short_name": "Silvernail's Welding Inc.",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#192a56",
+    "background_color": "#192a56",
+    "display": "standalone"
+}
